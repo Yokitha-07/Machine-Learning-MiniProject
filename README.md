@@ -86,5 +86,9 @@ Develop a **data-driven policy** that increases the agent’s success rate compa
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+
+**Yokitha R**  
+Undergraduate | University of Peradeniya  
+AI & Data Science Enthusiast  
 
