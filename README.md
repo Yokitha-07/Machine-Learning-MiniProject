@@ -78,7 +78,7 @@ Develop a **data-driven policy** that increases the agent’s success rate compa
 
 ## 🛠️ Tech Stack
 
-- Python 3.x  
+- Python 3.12
 - Gymnasium  
 - NumPy, Pandas  
 - scikit-learn (RandomForestRegressor)  
